@@ -59,7 +59,7 @@ git remote rm origin
 git push -u origin main
 git push origin main
 git push --force origin main
-git pull
+git pull                      # Atualizar seu projeto local com as mudanças que estão no GitHub      
 git pull origin main
 ```
 
