@@ -101,4 +101,9 @@ git remote set-url origin https://github.com/usuario/novo-repo.git
 git push -u origin main
 ```
 
+```bash
+git fetch origin
+git reset --hard origin/main
+```
+
 
